@@ -1,14 +1,16 @@
 # Site settings
-title: Twenty Blog
-email: your-email@domain.com
+title: EOfarm
+email: info@eofarm.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are cultivating Big Earth Observation Data, offering cutting-edge
+  Geospatial Services.
+keywords: > # this means to ignore newlines until "baseurl:"
+  earth observation, precision agriculture, water quality, monitoring, 
+  big data, data analysis, maps, time series, geospatial applications
 baseurl: "/Twenty-Jekyll-Theme" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  EOFarm
 
 # Build settings
+regeneration: -w
 markdown: kramdown
