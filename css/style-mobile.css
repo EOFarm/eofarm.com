@@ -122,14 +122,15 @@
 /* Banner */
 
 	#banner {
-		background-size: 10em, 10em, auto, cover;
+		/*background-size: 10em, 10em, auto, cover;*/
+		background-size: cover;
 		padding: 6em 0;
 	}
 
 		#banner .inner {
-			background: none;
-			display: block;
-			padding: 0 1.5em;
+			/*background: none;
+			display: block;*/
+			padding: 1.5em 1.5em;
 		}
 
 			#banner .inner header h2 {
@@ -141,7 +142,7 @@
 			}
 
 			#banner .inner br {
-				display: none;
+				/*display: none;*/
 			}
 
 /* Main */
@@ -162,7 +163,8 @@
 /* CTA */
 
 	#cta {
-		background-size: 10em, 10em, auto, cover;
+		/*background-size: 10em, 10em, auto, cover;*/
+		background-size: cover;
 		padding: 3em 1.5em;
 	}
 
