@@ -924,13 +924,16 @@
 		background-position: bottom center;
 		background-repeat: no-repeat;
 		background-size: cover;
-		color: white;
+		color: green;
 		padding: 5em;
 		text-align: center;
 	}
 
 		#cta header {
 			margin-bottom: 2em;
+		}
+		#cta footer {
+			background: white;
 		}
 
 		#cta .button {
@@ -947,7 +950,7 @@
 	}
 
 		#footer .copyright {
-			font-size: 0.8em;
+			font-size: 1em;
 			line-height: 1em;
 		}
 
