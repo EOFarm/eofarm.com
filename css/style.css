@@ -247,7 +247,7 @@
 	}
 
 		.image:before {
-			background: url("images/banner.png");
+			/*background: url("images/banner.png");*/
 			content: '';
 			height: 100%;
 			left: 0;
