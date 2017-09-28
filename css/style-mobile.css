@@ -180,3 +180,9 @@
 			padding: 0;
 			border: 0;
 		}
+
+/* Incubators */
+
+	#incubators .row>* {
+		margin:0;
+	}

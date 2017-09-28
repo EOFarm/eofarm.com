@@ -1125,3 +1125,10 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+/* Incubators */
+
+	#incubators .row>* {
+		float:none;
+		margin:auto;
+	}
